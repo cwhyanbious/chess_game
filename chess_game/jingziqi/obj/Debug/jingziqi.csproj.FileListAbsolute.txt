@@ -1,0 +1,140 @@
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.Form1.resources
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+C:\Users\10206\source\repos\jingziqi\jingziqi\bin\Debug\jingziqi.exe.config
+C:\Users\10206\source\repos\jingziqi\jingziqi\bin\Debug\jingziqi.exe
+C:\Users\10206\source\repos\jingziqi\jingziqi\bin\Debug\jingziqi.pdb
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.exe
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.pdb
+C:\Users\10206\source\repos\jingziqi\jingziqi\obj\Debug\jingziqi.Form2.resources
+E:\ruanjian\jingziqi\jingziqi\bin\Debug\jingziqi.exe.config
+E:\ruanjian\jingziqi\jingziqi\bin\Debug\jingziqi.exe
+E:\ruanjian\jingziqi\jingziqi\bin\Debug\jingziqi.pdb
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.Form1.resources
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.Form2.resources
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.exe
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.pdb
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.Form3.resources
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.Form4.resources
+E:\ruanjian\jingziqi\jingziqi\obj\Debug\jingziqi.Form5.resources
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\bin\Debug\jingziqi.exe.config
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\bin\Debug\jingziqi.exe
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\bin\Debug\jingziqi.pdb
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\jingziqi.exe
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\jingziqi.pdb
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\chess_game.Form1.resources
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\chess_game.Form2.resources
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\chess_game.Form3.resources
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\chess_game.Form4.resources
+F:\learn Project WOW\软件工程训练营\作业文件\chess_game\MSN\jingziqi\jingziqi\obj\Debug\chess_game.Form5.resources
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\bin\Debug\jingziqi.exe.config
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\bin\Debug\jingziqi.exe
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\bin\Debug\jingziqi.pdb
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\chess_game.Form1.resources
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\chess_game.Form2.resources
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\chess_game.Form3.resources
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\chess_game.Form4.resources
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\chess_game.Form5.resources
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\jingziqi.exe
+E:\ruanjian\chess_game-main\project\jingziqi\jingziqi\obj\Debug\jingziqi.pdb
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\jingziqi.exe.config
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\jingziqi.exe
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\jingziqi.pdb
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form1.resources
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form2.resources
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form3.resources
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form4.resources
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form5.resources
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.exe
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.pdb
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\Newtonsoft.Json.dll
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\Newtonsoft.Json.xml
+F:\learn Project WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CopyComplete
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\jingziqi.exe.config
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\jingziqi.exe
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\jingziqi.pdb
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\Newtonsoft.Json.dll
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\bin\Debug\Newtonsoft.Json.xml
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form1.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form2.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form3.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form4.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\chess_game.Form5.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.csproj.CopyComplete
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.exe
+F:\learn_Project_WOW\软件工程训练营\作业文件\jingziqi\jingziqi\obj\Debug\jingziqi.pdb
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\bin\Debug\jingziqi.exe.config
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\bin\Debug\jingziqi.exe
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\bin\Debug\jingziqi.pdb
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\jingziqi.csprojAssemblyReference.cache
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\chess_game.Form1.resources
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\chess_game.Form2.resources
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\chess_game.Form3.resources
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\chess_game.Form4.resources
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\chess_game.Form5.resources
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\jingziqi.csproj.CopyComplete
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\jingziqi.exe
+C:\Users\86132\Desktop\盛安\chess_game\jingziqi\obj\Debug\jingziqi.pdb
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\chess_game.Form1.resources
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\chess_game.Form2.resources
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\chess_game.Form3.resources
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\chess_game.Form4.resources
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\chess_game.Form5.resources
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.Form6.resources
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.exe
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.pdb
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\bin\Debug\jingziqi.exe.config
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\bin\Debug\jingziqi.exe
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\bin\Debug\jingziqi.pdb
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\bin\Debug\Newtonsoft.Json.dll
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\bin\Debug\Newtonsoft.Json.xml
+F:\learn_Project_WOW\软件工程训练营\chess_game\jingziqi\obj\Debug\jingziqi.csproj.CopyComplete
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.csproj.AssemblyReference.cache
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\chess_game.Form1.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\chess_game.Form2.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\chess_game.Form3.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\chess_game.Form4.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\chess_game.Form5.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.Form6.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.Properties.Resources.resources
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.csproj.GenerateResource.cache
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.csproj.CoreCompileInputs.cache
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.exe
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.pdb
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\bin\Debug\jingziqi.exe.config
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\bin\Debug\jingziqi.exe
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\bin\Debug\jingziqi.pdb
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\bin\Debug\Newtonsoft.Json.dll
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\bin\Debug\Newtonsoft.Json.xml
+F:\learn_Project_WOW\软件工程训练营\作业文件\chess_game\jingziqi\obj\Debug\jingziqi.csproj.CopyComplete
